@@ -1,18 +1,7 @@
 <h1 align="center">react 移动端模板</h1>
 <br/>
 
-<div align="center" dispaly="flex">
-    <img src='./docs/images/home.jpeg' style='width: 75%'/>
-</div>
 <br>
-<p align="center">
-    简体中文 | <a href="./docs/README.en.md">English</a>
-</p>
-
-## 🔗 在线 Demo
-
--   在线预览（移动端） [react-template-mobile](https://guokaigdg.github.io/react-template-mobile/)
--   在线预览（PC 端） [react-enterprise-template](https://github.com/guokaigdg/react-enterprise-template)
 
 ## 👨🏻‍💻 项目说明
 
@@ -44,24 +33,6 @@
 -   mobx-react-lite v3
 -   react-router-dom v6
 
-## 🎄 陆续新增内容：
-
--   ① 样式 ✅ 2023/2/6 日提交 [config: 🔧  新增样式文件(css/less/sass/postCss)处理](https://github.com/guokaigdg/react-enterprise-template/commit/11fb415bac609dfa7474a1ee2db93ccb4a350a51)
--   ② 代码规范 ✅ 2023/2/7 日提交 [config: 🔧  新增 Prettier/ESlint/StyleLint/EditorConfig 代码规范](https://github.com/guokaigdg/react-enterprise-template/commit/87dd1ca333f81203dd245a6eb40479a0745f096f)
--   ③ 路由 ✅ 2023/2/8 日提交 [config: 🔧 新增路由管理 react-router-dom v6](https://github.com/guokaigdg/react-enterprise-template/commit/239446d0709eb52bad2b48af4983eef91c49f60d)
--   ④ 网络请求 ✅ 2023/2/21 日提交 [feat: ✨  新增网络请求 Axios v1](https://github.com/guokaigdg/react-enterprise-template/commit/27cd67f641d5ecf53b89770195f75bd32bccce46)
--   ⑤ 数据共享 ✅ 2023/2/13 日提交 [feat: ✨  新增状态管理 Mobx v6](https://github.com/guokaigdg/react-enterprise-template/commit/992e1884943d4f8bda836f48c60df473418397d7)
--   ⑥ React Hook 规则 ✅ 2023/3/2 日提交 [feat: ✨ 新增 react hooks 规则检查](https://github.com/guokaigdg/react-enterprise-template/commit/15346c07a9ffd74f69dd1bb0dd6a4a42aa72df57)
--   ⑦ 封装全局 SVG 组件 ✅ 2023/3/6 日提交 [feat: ✨ 封装全局 SVG 组件](https://github.com/guokaigdg/react-enterprise-template/commit/066fc6ff28c1ac3b0d6422ebda8d59cdf9275d3a)
-
--   ⑧ 移动端适配 ✅ [feat: ✨  增加移动端适配方案: postcss-px-to-viewport](https://github.com/guokaigdg/react-enterprise-template/commit/78b10e2d0bada75f4043eaa43aecffb2973fd357)
-
--   ⑨ Mobx 使用区别说明 ✅ [feat: ✨  增加 makeObservable 与 makeAutoObservable 说明与使用示例](https://github.com/guokaigdg/react-enterprise-template/commit/11cee6d4e2f24eebe2d3eec3357d73eca7f9aa8c)
-
--   ⑩ mobx-react-lite 优化 ✅ [feat: ✨  新增 mobx-react-lite 中 observer 与 Observer 使用与优化](https://github.com/guokaigdg/react-enterprise-template/commit/fe5620b4281e49d44cb25a945a6ba04f125f3f29)
-
--   ⑪ 新增 UI 设计资料 ✅ [docs: 📝  更新开发设计资料参考文档](https://github.com/guokaigdg/react-enterprise-template/commit/a75a6a705a0e2367dbfcef5e5d562e72b63057df)
-
 ## ⌛️ 安装项目依赖
 
 -   `node` >= 16.0.0
@@ -92,15 +63,6 @@ $ yarn dev
 npm run build:qa  // 测试环境
 npm run build:prod  // 线上环境
 ```
-
-## 🏷 分支说明
-
-| 分支            | 说明           |
-| --------------- | -------------- |
-| main            | 主分支         |
-| dev             | 开发分支       |
-| deploy          | demo 部署分支  |
-| mobile-template | 移动端模板分支 |
 
 ## 代码提交规范
 
@@ -174,16 +136,3 @@ merge     🔀 合并分支
     └── yarn.lock                       # yarn安装包锁定管理
 
 ```
-
-## 📚 开发资料参考
-
--   <a href="./docs/data.md">开发资料参考</a>
-
-## 🤝 如何贡献
-
--   📬 有问题直接 issues 或者留言
--   🧙‍♀️ 欢迎所有的贡献者，快来 Issus 或 Pull requests 成为贡献者吧
-
-## 💡 开源协议
-
-该项目的代码和文档基于  MIT License  开源协议。

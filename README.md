@@ -5,13 +5,7 @@
 
 ## 👨🏻‍💻 项目说明
 
--   PC 端模板：[react-enterprise-template](https://github.com/guokaigdg/react-enterprise-template)
-
 -   react 模板, 一个比 CRA 更丰富的模板
-
--   开发配置文档说明 [React18 + webpack5 + TypeScript4 + react-router-dom + Mobx](https://juejin.cn/post/7197790401495121977)
-
--   项目创建教程 [《从 0 到 1 搭建一个 React 项目开发模板 》](https://juejin.cn/post/7223267430231326778)
 
 ## 📱 特点
 
